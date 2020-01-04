@@ -1,4 +1,3 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Dillinger.md</title><style></style></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Redhattest_0"></a>Redhat-test</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="2">Steps to withdraw money from an ATM machine</p>
 <h3 class="code-line" data-line-start=3 data-line-end=4 ><a id="Step_1_Insert_your_ATM_card_3"></a>Step 1: Insert your ATM card.</h3>
@@ -11,5 +10,3 @@
 <h3 class="code-line" data-line-start=17 data-line-end=18 ><a id="Step_8_Take_a_printout_of_the_receipt_Optional_17"></a>Step 8: Take a printout of the receipt (Optional).</h3>
 <h3 class="code-line" data-line-start=19 data-line-end=20 ><a id="Step_9_Once_youve_completed_your_transaction_press_the_cross_or_cancel_button_before_you_leave_the_machine_room_19"></a>Step 9: Once you’ve completed your transaction, press the cross or cancel button before you leave the machine room.</h3>
 <h3 class="code-line" data-line-start=21 data-line-end=22 ><a id="Step_10_To_make_another_transaction_repeat_Steps_1_to_9_21"></a>Step 10: To make another transaction, repeat Steps 1 to 9.</h3>
-
-</body></html>
