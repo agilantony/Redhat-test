@@ -1,4 +1,3 @@
-
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Redhattest_0"></a>Redhat-test</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="2">Steps to withdraw money from an ATM machine</p>
 <h3 class="code-line" data-line-start=3 data-line-end=4 ><a id="Step_1_Insert_your_ATM_card_3"></a>Step 1: Insert your ATM card.</h3>
