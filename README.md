@@ -17,10 +17,9 @@ Steps to withdraw money from an ATM machine
 
 ### Step 8: Take a printout of the receipt (Optional).
 
-### Step 9: To make another transaction, repeat Steps 1 to 8, else, proceed to Step 10.
+### Step 9: Once you've completed your transaction, press the cross or cancel button before you leave the machine room.
 
-### Step 10: Once you've completed your transaction, press the cross or cancel button before you leave the machine room.
-
+### Step 10: To make another transaction, repeat Steps 1 to 9.
 
 
 
