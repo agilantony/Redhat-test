@@ -3,4 +3,4 @@ Steps to withdraw money from an ATM machine
 
 ### Step 1: Insert your card.
 
-![Image of Inserting and ATM card]
+![](https://github.com/agilantony/Redhat-test/blob/master/Insert%20card.JPG)
